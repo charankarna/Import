@@ -1,3 +1,9 @@
 /*https://github.com/afuu21/18CSL76-AIML-Programs/blob/main/4.%20ID3.ipynb*/
-/3-https://github.com/afuu21/18CSL76-AIML-Programs/blob/main/2.%20S-AO-star.ipynb/
-/2-https://github.com/afuu21/18CSL76-AIML-Programs/blob/main/1.%20A-star.ipynb/
+/2-https://github.com/afuu21/18CSL76-AIML-Programs/blob/main/2.%20S-AO-star.ipynb/
+/1-https://github.com/afuu21/18CSL76-AIML-Programs/blob/main/1.%20A-star.ipynb/
+//8-https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/KNNLab8/KNN.ipynb//
+//6-https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/NaiveBayesianLab6/NaiveBayesian.ipynb//
+//7-https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/EMLab7/EM.ipynb//
+//5-https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/BackPropagationLab5/Backpropagation.ipynb//
+//3-https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/CandidateEliminationLab3/CandidateElimination.ipynb//
+//9-https://github.com/AshishVajpayee/VTU-AIML-Lab-Programs/blob/master/RegressionLab9/Regression.ipynb//
