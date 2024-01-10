@@ -45,6 +45,5 @@ Graph_nodes = {
     'H': [('I', 2)],
     'I': [('E', 5), ('J', 3)],
 }
-
 result = aStarAlgo(Graph_nodes, 'A', 'J')
 print("Path found:", result)//
